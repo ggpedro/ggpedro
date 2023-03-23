@@ -5,6 +5,8 @@
 - 🌱 Recently coming back to GIT
 - 💬 Any challenges with data or low-code development? Chat me!
 
+#
+
 ##### My main habilities
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="36" width="36" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/256/external-SQL-file-extension-bearicons-outline-color-bearicons.png">
