@@ -1,6 +1,6 @@
 ## Welcome! I'm Pedro Dias, Data Scientist and Low-Code Developer
 
-- 🔭 I’m currently working on some projects to agreggate my portfolio
+- 🔭 I’m currently working on some projects to agreggate to my portfolio
 - 🌱 Recently coming back to GIT
 - 💬 Any challenges with data or low-code development? Chat me!
 
